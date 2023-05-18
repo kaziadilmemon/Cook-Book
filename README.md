@@ -1,4 +1,4 @@
-# mealer
+# Cookmate Recipe Searching App
 
 A new Flutter project.
 
